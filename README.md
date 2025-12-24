@@ -1,6 +1,6 @@
 # Implicit Finite Difference Scheme for Acoustic Wave Propagation 🌊🔬
 
-A numerical simulation project using Python and MATLAB to model acoustic wave propagation using implicit finite difference and central difference schemes.
+A numerical simulation project using MATLAB to model acoustic wave propagation using implicit finite difference and central difference schemes.
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ Key components include:
 
 * Implementation of implicit and central finite difference schemes.
 * Simulation of wave propagation at four different speeds.
-* Visualization of wave propagation using Python and MATLAB.
+* Visualization of wave propagation using MATLAB.
 
 ## Dataset / Inputs
 
@@ -34,7 +34,7 @@ Key components include:
 
 * **Implicit Finite Difference Scheme:** Ensures numerical stability for simulating wave propagation.
 * **Central Difference Scheme:** Provides baseline comparison for wave behavior.
-* **Visualization:** Python scripts generate plots of wave propagation at different speeds.
+* **Visualization:** Matlab scripts generate plots of wave propagation at different speeds.
 * **MATLAB Integration:** MATLAB scripts used for additional visualization and analysis.
 
 ## Installation
@@ -55,7 +55,7 @@ cd Implicit-finite-difference-scheme-for-acoustic-wave-propagation
 
 * **Finite Difference Schemes:** Implemented implicit and central schemes for numerical simulation.
 * **Wavelet Input:** Richter wavelet used as the source signal.
-* **Visualization:** Python used for plotting temporal and spatial wave propagation graphs; MATLAB used for additional numerical analysis and verification.
+* **Visualization:** Matlab used for plotting temporal and spatial wave propagation graphs; MATLAB used for additional numerical analysis and verification.
 
 ## Results
 
